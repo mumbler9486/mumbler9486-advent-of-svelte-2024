@@ -5,7 +5,7 @@
 	<title>Advent of Svelte 2024</title>
 </svelte:head>
 
-<div class="hero bg-base-200 min-h-screen">
+<div class="hero min-h-screen bg-base-200">
 	<div class="hero-content text-center">
 		<div class="max-w-md">
 			<h1 class="text-5xl font-bold">Advent of Svelte 2024</h1>
@@ -14,7 +14,7 @@
 				<p class="mt-4">
 					<a
 						class="link"
-						href="https://advent.sveltesociety.dev"
+						href="https://svelte.dev/blog/advent-of-svelte"
 						target="_blank"
 						rel="noopener noreferrer">Advent of Svelte 2024 Challenges</a
 					>
