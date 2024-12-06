@@ -1,20 +1,12 @@
 <script lang="ts">
+	import Input from '$lib/components/Input.svelte';
+
 	let value = $state('1');
 	const numPresents = $derived(value === '' || value === null ? 0 : parseInt(value));
 	const listPresents = $derived(Array.from({ length: numPresents }, (_, i) => i + 1));
 </script>
 
-<label class="form-control w-full max-w-xs">
-	<div class="label">
-		<span class="label-text">Number of Presents?</span>
-	</div>
-	<input
-		type="text"
-		placeholder="Type here"
-		class="input input-bordered w-full max-w-xs"
-		bind:value
-	/>
-</label>
+<Input label="Number of Presents?" placeholder="Type here" bind:value />
 
 {#snippet present(index: number)}
 	<div class="">
