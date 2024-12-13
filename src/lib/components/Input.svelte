@@ -2,7 +2,7 @@
 	export let label: string = '';
 	export let placeholder: string = '';
 	export let value: string = '';
-	export let defaultValue: string;
+	export let defaultValue: string = '';
 	export let required: boolean = false;
 </script>
 
