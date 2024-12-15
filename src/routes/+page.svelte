@@ -10,7 +10,8 @@
 		<div class="max-w-md">
 			<h1 class="text-5xl font-bold">Advent of Svelte 2024</h1>
 			<div class="py-6">
-				<p>Solutions by Mumbler9486</p>
+				<p class="italic">Solutions by Mumbler9486</p>
+				<p>Some solutions require seeing the source code for how it works under the hood.</p>
 				<p class="mt-4">
 					<a
 						class="link"
@@ -39,7 +40,7 @@
 					<a class="btn btn-primary" href="/day8">Day 8</a>
 					<a class="btn btn-primary" href="/day9">Day 9</a>
 					<a class="btn btn-primary" href="/day10">Day 10</a>
-					<a class="pointer-events-none" href="/day11">Day 11</a>
+					<a class="btn btn-primary" href="/day11">Day 11</a>
 					<a class="pointer-events-none" href="/day12">Day 12</a>
 					<a class="pointer-events-none" href="/day13">Day 13</a>
 					<a class="pointer-events-none" href="/day14">Day 14</a>
