@@ -1,3 +1,5 @@
+//For Day 10 shenanigans
+
 let magicNumberState = $state(false);
 
 export const getMagicNumberState = () => magicNumberState;
