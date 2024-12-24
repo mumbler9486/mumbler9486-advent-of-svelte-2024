@@ -14,6 +14,6 @@
 
 <a
 	class="btn btn-primary mt-4"
-	href="https://svelte.dev/playground/2a3b3f35d6fe4a4ca2cf457b5e6ddcb3?version=5.15.0"
+	href="https://github.com/mumbler9486/mumbler9486-advent-of-svelte-2024/blob/main/src/routes/day18/day18-demo.svelte"
 	>GitHub Source</a
 >
