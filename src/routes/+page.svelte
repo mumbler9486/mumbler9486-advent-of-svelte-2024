@@ -48,7 +48,7 @@
 					<a class="btn btn-primary" href="/day16">Day 16</a>
 					<a class="btn btn-primary" href="/day17">Day 17</a>
 					<a class="btn btn-primary" href="/day18">Day 18</a>
-					<a class="pointer-events-none" href="/day19">Day 19</a>
+					<a class="btn btn-primary" href="/day19">Day 19</a>
 					<a class="pointer-events-none" href="/day20">Day 20</a>
 					<a class="pointer-events-none" href="/day21">Day 21</a>
 					<a class="pointer-events-none" href="/day22">Day 22</a>
