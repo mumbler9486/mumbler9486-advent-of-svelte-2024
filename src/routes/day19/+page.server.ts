@@ -1,8 +1,8 @@
 import type { PageServerLoad } from './$types';
-import svelteConfig from '../../../svelte.config';
+import { SVELTE_CONFIG_OUTPUT_BUNDLE_STRATEGY } from '$env/static/private';
 
 export const load: PageServerLoad = async () => {
 	return {
-		bundleStrategy: svelteConfig.kit?.output?.bundleStrategy
+		bundleStrategy: SVELTE_CONFIG_OUTPUT_BUNDLE_STRATEGY
 	};
 };
