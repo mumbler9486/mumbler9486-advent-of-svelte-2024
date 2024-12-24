@@ -3,6 +3,6 @@ import { SVELTE_CONFIG_OUTPUT_BUNDLE_STRATEGY } from '$env/static/private';
 
 export const load: PageServerLoad = async () => {
 	return {
-		bundleStrategy: SVELTE_CONFIG_OUTPUT_BUNDLE_STRATEGY
+		bundleStrategy: SVELTE_CONFIG_OUTPUT_BUNDLE_STRATEGY // This is for the sake of displaying on the page
 	};
 };
