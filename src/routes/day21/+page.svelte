@@ -1,6 +1,8 @@
 <script lang="ts">
 </script>
 
+<h1 class="mb-8 text-5xl">Hash Based Routing Implemented</h1>
+
 <div class="flex flex-col gap-4">
 	<p>
 		Hash-based routing was implemented. Configure <code>config.kit.router.type: 'hash'</code> in
