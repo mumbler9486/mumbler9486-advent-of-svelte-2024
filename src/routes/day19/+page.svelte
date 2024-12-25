@@ -17,7 +17,7 @@
 		<code>inline</code> - Inlines all .js and .css files in the HTML. The result can be usable without
 		a server.
 	</li>
-	<a class="link mt-8" href="https://svelte.dev/docs/kit/configuration#output"
+	<a class="link mt-8" target="_blank" href="https://svelte.dev/docs/kit/configuration#output"
 		>Svelte Docs (Configuration &gt; Output &gt; Bundle Strategy)</a
 	>
 </div>
