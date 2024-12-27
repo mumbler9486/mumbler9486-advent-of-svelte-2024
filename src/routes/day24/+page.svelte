@@ -53,6 +53,14 @@
 	The underlying mechanism to rotate the cards uses CLSX. Combined constant classes, conditional
 	classes, and string properties as class values.
 </p>
+<p class="mb-4">
+	The back of the cards are Mandalas which I made using <a
+		class="link"
+		href="https://www.myoats.com/create.aspx"
+		target="_blank"
+		rel="noopener">Myoats.com</a
+	>.
+</p>
 <p>Rotate the cards until they are upright.</p>
 <div class="flex flex-col items-center">
 	{#if gameWin}
