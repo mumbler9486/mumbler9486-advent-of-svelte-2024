@@ -31,6 +31,13 @@
 		<a
 			class="btn btn-secondary mt-4"
 			target="_blank"
+			href="https://mumbler9486.github.io/advent-of-svelte-day22-single-file-html/">Live Demo</a
+		>
+	</p>
+	<p>
+		<a
+			class="btn btn-accent mt-4"
+			target="_blank"
 			href="https://github.com/mumbler9486/advent-of-svelte-day22-single-file-html/releases"
 			>Releases (GitHub)</a
 		>
