@@ -11,6 +11,9 @@
 			<h1 class="text-5xl font-bold">Advent of Svelte 2024</h1>
 			<div class="py-6">
 				<p class="italic">Solutions by Mumbler9486</p>
+				<p class="italic text-accent">
+					All solutions completed on {new Date('2024-12-27T02:51:39.259Z').toLocaleString()}
+				</p>
 				<p>Some solutions require seeing the source code for how it works under the hood.</p>
 				<p class="mt-4">
 					<a
